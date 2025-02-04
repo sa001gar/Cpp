@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Two pointer Approach
 int main()
 {
 
